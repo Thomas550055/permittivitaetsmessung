@@ -19,9 +19,9 @@ Als Professor möchte ich Permittivitätsmessergebnisse miteinander vergleichen,
 
 #### Frequenz Vergleich: Eigenschaften der Werkstoffe auf einer Frequenz vergleichen
 * Diagramm 1: Als Professor möchte ich die Frequenzverläufe aller Werkstoffe sehen, um ihre Permitivität zu vergleichen.
-* Tabelle 1: Als Professor möchte ich die Messergebnisse aller Werkstoffe bei einer bestimmten Frequenz anzeigen, um diese zu vergleichen.
+* Tabelle 1: Als Professor möchte ich die Messergebnisse aller Werkstoffe bei einer gemessenen Frequenz anzeigen, um diese zu vergleichen.
 * Spalten-Filter: Als Professor möchte ich bestimmte Spalten ausblenden, damit ich eine bessere Übersicht habe.
-* Frequenz-Filter: Als Professor möchte ich bestimmte Frequenzen auswählen, um Werkstoffe auf einer bestimmten Frequenz zu vergleichen.
+* Frequenz-Filter: Als Professor möchte ich gemessene Frequenzen auswählen, um Werkstoffe auf einer bestimmten Frequenz zu vergleichen.
 
 ### Werkstoffdetails: Eigenschaften eines Werkstoffes auf gemessenen Frequenzen vergleichen
 * Tabelle 2: Als Professor möchte ich die Ergebnisse eines Werkstoffes in einer Tabelle anzeigen, um diese zu vergleichen.
