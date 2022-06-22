@@ -155,3 +155,4 @@ cython_debug/
 /.idea/inspectionProfiles/profiles_settings.xml
 
 /.idea
+/identifier.sqlite
