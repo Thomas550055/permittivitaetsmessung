@@ -1,4 +1,5 @@
 # Permittivitäts Messung
+(sqlite is required to run this)
 
 ## Anforderungen
 
